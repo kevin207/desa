@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/desa/static/css/main.e47fc89b.css",
+    "main.css": "/desa/static/css/main.8b2230df.css",
     "main.js": "/desa/static/js/main.2cb5aa13.js",
     "static/media/toga.jpg": "/desa/static/media/toga.755433cc8aaa016f3384.jpg",
     "static/media/voli.jpg": "/desa/static/media/voli.a9129faa0b31282d54ba.jpg",
@@ -32,11 +32,11 @@
     "static/media/kakeu.jpg": "/desa/static/media/kakeu.af9e8e75ecc2013a7618.jpg",
     "static/media/pintu.jpg": "/desa/static/media/pintu.282c2364a188ea1c6147.jpg",
     "index.html": "/desa/index.html",
-    "main.e47fc89b.css.map": "/desa/static/css/main.e47fc89b.css.map",
+    "main.8b2230df.css.map": "/desa/static/css/main.8b2230df.css.map",
     "main.2cb5aa13.js.map": "/desa/static/js/main.2cb5aa13.js.map"
   },
   "entrypoints": [
-    "static/css/main.e47fc89b.css",
+    "static/css/main.8b2230df.css",
     "static/js/main.2cb5aa13.js"
   ]
 }
